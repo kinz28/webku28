@@ -11,14 +11,14 @@ header{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#417aa8;
+    background:#333;
     color:#fff;
 }
 jarak{
     pandding:0 2pc;
 }
 menu{
-    background-color:#471aa8;
+    background-color:#333;
     height:50px;
     line-height:50px;
     position:relative;
