@@ -14,9 +14,11 @@ body{
     background:#417aa8;
     color:#fff;
 }
+
 .jarak{
     padding:0 2pc;
 }
+
 .menu{
     background-color:#417aa8;
     height:50px;
@@ -26,6 +28,7 @@ body{
     margin:0 auto;
     padding:0 auto;
 }
+
 .menu ul {
     list-style:none;
 }
@@ -43,6 +46,7 @@ body{
     background-color:#4b88bb;
     display:block;
 }
+
 .content{
     width:90%;
     margin:auto;
@@ -51,6 +55,7 @@ body{
     background:#fff;
     color:#333;
 }
+
 .border{
     border:2px solid #4887b9;
     margin-top:1pc;
@@ -58,6 +63,7 @@ body{
     padding-left:2pc;
     padding-right:pc;
 }
+
 .kiri{
     width:70%;
     float:left;
@@ -65,6 +71,7 @@ body{
     background:#fff;
     height:420px;
 }
+
 .kanan{
     width:30%;
     float:left;
@@ -72,9 +79,11 @@ body{
     background:#fff;
     height:420px;
 }
+
 .undecor{
     text-decoration:none;
 }
+
 .footer{
     width:90%;
     margin:auto;
